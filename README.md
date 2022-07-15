@@ -3,7 +3,7 @@ I'm 14y , currently study medium school in Mexico. I just want to learn how to c
 
 Skills: HTML / CSS
 
-- 🔭 I’m currently working on websites 
+- 🔭 I’m currently working on discord development and websites 
 - 🌱 I’m currently learning Java , JS , PHP 
 
 
